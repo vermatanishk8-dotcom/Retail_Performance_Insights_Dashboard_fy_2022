@@ -1,7 +1,7 @@
 # Retail_Performance_Insights_Dashboard_fy_2022📊
 
 ## Project Overview
-This project presents a comprehensive annual sales analysis for Vrinda Store using Microsoft Excel. The goal is to uncover key business insights and provide actionable recommendations to improve sales strategy and drive growth.
+This project presents a comprehensive annual sales analysis for Retail_Performance using Microsoft Excel. The goal is to uncover key business insights and provide actionable recommendations to improve sales strategy and drive growth.
 
 ## Objectives
 - Analyze annual sales data to identify trends and patterns
@@ -19,10 +19,9 @@ This project presents a comprehensive annual sales analysis for Vrinda Store usi
 
 ## Project Workflow
 1. **Data Cleaning** – Handled missing values, duplicates, and inconsistencies
-2. **Exploratory Data Analysis (EDA)** – Explored sales trends, customer demographics, and category performance
-3. **Pivot Tables** – Summarized data for quick insights
-4. **Dashboard** – Created interactive visual dashboard for business reporting
-5. **Insights & Recommendations** – Derived actionable insights for growth
+2. **Pivot Tables** – Summarized data for quick insights
+3. **Dashboard** – Created interactive visual dashboard for business reporting
+4. **Insights & Recommendations** – Derived actionable insights for growth
 
 ## Key Insights
 - Identified best-selling product categories
