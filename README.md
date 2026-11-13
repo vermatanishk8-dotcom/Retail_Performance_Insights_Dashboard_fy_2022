@@ -1,4 +1,4 @@
-# Vrinda Store - Annual Sales Analysis 📊
+# Retail_Performance_Insights_Dashboard_fy_2022📊
 
 ## Project Overview
 This project presents a comprehensive annual sales analysis for Vrinda Store using Microsoft Excel. The goal is to uncover key business insights and provide actionable recommendations to improve sales strategy and drive growth.
